@@ -38,8 +38,8 @@ Running the Application
 To run the application locally, use the following commands:
 
 Start the development server:
-npm start
-Open your browser and visit http://localhost:3000.
+npm run dev
+Open your browser and visit http://localhost:5173/.
 
 Note: Ensure you have Node.js and npm installed on your machine.
 
