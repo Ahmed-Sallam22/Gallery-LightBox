@@ -14,7 +14,7 @@ A responsive image gallery application built with React. This project allows use
 ## Technologies Used
 
 - React
-- CSS/SASS for styling
+- SASS for styling
 - React Icons for navigation arrows
 - AOS (Animate On Scroll) for animations
 
@@ -24,11 +24,12 @@ A responsive image gallery application built with React. This project allows use
 Follow these steps to install the project locally:
 
 1. Clone the repository:
-   ```bash
+open terminal with  Press Win + R to open the "Run" dialog.
+Type cmd and press Enter to open the Command Prompt.
    git clone https://github.com/Ahmed-Sallam22/Gallery_with_Lightbox.git
 
 2. Navigate to the project directory:
-cd <project-directory>
+cd Gallery-LightBox
 
 3. Install the required dependencies:
 npm install
