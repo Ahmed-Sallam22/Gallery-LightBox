@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Gallery_with_Lightbox
 A responsive image gallery application built with React. This project allows users to view images in a grid layout and display them in a modal with navigation controls.
 ## Table of Contents
@@ -50,6 +50,8 @@ Use the left and right arrows to navigate through the images in the modal.
 Press the Escape key to close the modal
 
 
+Link of Repo https://github.com/Ahmed-Sallam22/Gallery-LightBox
+   
 Ahmed Sallam - https://www.linkedin.com/in/ahmed-sallam-50b5b6216?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAdP6floQTkq1XAE4qlOiTg%3D%3D -ahmed30sallam22@gmail.com
 
 =======
